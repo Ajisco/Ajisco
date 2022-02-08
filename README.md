@@ -41,13 +41,13 @@ I am **Ajibade Abdulquddus A.**, a Data Scientist and a Software Developer ðŸ•µð
 #### [Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/Breast%20Tumor%20Predictions%20using%20SVM.ipynb)
 | |
 |:-|
-|![Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/Breast%20Tumor%20Predictions%20using%20SVM.ipynb) |
+|![Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg) |
 
 
 #### [ Prediction on Success of Surgery to correct Kyphosis using Random Forest](https://github.com/Ajisco/Kyphosis-Prediction-Using-Random-Forest)
 | | |
 |:-|:-|
-| ![ Prediction on Success of Surgery to correct Kyphosis using Random Forest](https://github.com/Ajisco/Kyphosis-Prediction-Using-Random-Forest) ||
+| ![ Prediction on Success of Surgery to correct Kyphosis using Random Forest](https://github.com/Ajisco/Kyphosis-Prediction-Using-Random-Forest/blob/master/kypho.jpeg) ||
 
 <!--div align = "center" -->
 <h1>Contact</h1>
