@@ -31,10 +31,11 @@ I am **Ajibade Abdulquddus A.**, a Data Scientist and a Software Developer ðŸ•µð
 # Deployed Projects  
 > This is a section that contains the links to all my **deployed Webpages/Web application** 
 <br/>
-#### [Project Portfolio](https://ajisco.netlify.app/)
+  
+#### [Project Portfolio](https://ajisco.netlify.app)
 | | |
 |:-|:-|
-| ![Project Portfolio 1](https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png) | ![Project Portfolio 2](https://ajisco.netlify.app/assets/img/portfolio/portfolio-2.png) |
+|![Project Portfolio 1](https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png) | ![Project Portfolio 2](https://ajisco.netlify.app/assets/img/portfolio/portfolio-2.png) |
 
 
 #### [Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/Breast%20Tumor%20Predictions%20using%20SVM.ipynb)
