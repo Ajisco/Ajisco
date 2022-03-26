@@ -1,63 +1,186 @@
-[![GitHub issues](https://img.shields.io/github/issues/Ajisco/Ajisco)](https://github.com/Ajisco/Ajisco/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Ajisco/Ajisco)](https://github.com/Ajisco/Ajisco/network)
-[![GitHub stars](https://img.shields.io/github/stars/Ajisco/Ajisco)](https://github.com/Ajisco/Ajisco/stargazers)
 
-# Hello 🤓
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
-**Welcome to my GitHub Profile 📔** ![](https://visitor-badge.glitch.me/badge?page_id=Ajisco.Ajisco&style=flat-square&color=ffeb00) <br/>
-I am **Ajibade Abdulquddus A.**, a Data Scientist and a Software Developer 🕵🏽‍♂️ with great  interest in problem solving with **Data Science**, **Software Development**, Research and Innovation.
-<br/><br/>
-# [Technical Skills](https://github.com/Ajisco?tab=repositories) 👨🏽‍💻
-| | | | 
-|:--|:--|:--|
-|Python <a href="https://www.python.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>  |Tableau <a href="https://www.tableau.com"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" /></a>  |  MS-Excel <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg"/></a>  |
-|  SQL <a href="https://www.sqlite.org/index.html"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" /></a><a href="https://www.mysql.com"><img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>  |  Machine Learning <a href="https://scikit-learn.org/stable/"><img width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikit-learn.svg" /></a><a href="https://numpy.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" /></a><a href="https://pandas.pydata.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" /></a>|  Deep Learning <a href="https://www.tensorflow.org"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" /></a><a href="https://keras.io"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" /></a>|
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Data+Scientist+;Python+Developer;Tech+Writer+%3C3;function+findQuestion(42)" alt="Data SCientist, Python Developer"></a>
+</div> 
+ 
+   <h1 align="center">Hi visitor, I'm Abdulquddus!</h1>
+   <p align="center">
+     <img src="https://gpvc.arturio.dev/Ajisco">
+     </p>
+   
+   ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-| | |
-|:--|:--|
-|![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisco&show_icons=true&theme=great-gatsby&hide_border=true&langs_count=8) ![Stat](https://github-readme-stats.vercel.app/api?username=Ajisco&show_icons=true&theme=great-gatsby)| ![image](https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png)|
-
-# About  
-
-|  |   |   |
-|:-|:--|:--|
-|[My Portfolio](https://ajisco.netlify.app) | [My Resumé](https://ajisco.netlify.app/MyResume.pdf) | [Most Recent Project](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM)|  
+- :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png" width="400" align="right"/>
+- :school: I'm **Data Scientist** and *Python Developer*
+- :books: I also write tech stuffs on my blog
+- :earth_asia: I have relevant years of experience in Data Science
+- :monocle_face: I'm proficient in programming with Python, SQL and I use JavaScript
+- :sunglasses: I've completed many projects which you'll find in my profile as you move on
+- :ok_hand: Fun fact: I love :point_right: Eating :point_right: Coding :point_right: Chess 
   
+## 🛠️ My Favorite Tools
 
-### Data Science Experience
+### 👨‍💻 Languages
 
-<div align = "center">
+<p>
+     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+   
+   
+### 🧰 Frameworks and Libraries
 
-# Deployed Projects  
+<p>
+    <a href="#"><img alt="Keras" src="Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"></a>
+  <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+   <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
+   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"></a>
+   
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="postgresql" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+   <a href="#"><img alt="Azure" src ="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+   <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+  <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+  <a href="#"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+  
+    ---
+
+## 🖥️ Deployed Projects
+ 
 > This is a section that contains the links to all my **deployed Webpages/Web application** 
 <br/>
   
+#### [Crime Predictor on Streamlit](https://bit.ly/CrimeWomen)
+| |
+|:-|
+|![Predictions of Crimes in India using Artificial Intillegince] <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://drive.google.com/file/d/1HnXmZY272scHG_wwtUPXpagCyXxIxLO3/view?usp=sharing"></a>|
+
+  
+#### [Breast Cancer Predictor](https://tumpred.herokuapp.com)
+| | |
+|:-|:-|
+|![Breast Cancer Predictor] <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer App" src="https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg"></a>|(https://miro.medium.com/max/1400/1*vLYPDzcjwT0NO5lvjdUPPQ.jpeg) | ![Breast Cancer App 2](https://media-exp1.licdn.com/dms/image/C5622AQH9gNfyjan6sA/feedshare-shrink_2048_1536/0/1645773696390?e=1651104000&v=beta&t=IpdXPsKt6HggNTuuWTs5xZ1ubWpyeUTM0Fx3Y98GjHY) |
+
+
+#### [Chat App with Django](https://my-chatme.herokuapp.com)
+| |
+|:-|
+|![A Chatting Web Application built using Python Framework, Django] <a href="https://my-chatme.herokuapp.com"><img alt="Chat App" src="https://github.com/Ajisco/Chatme-App/blob/master/static/images/icon.png"></a> |
+
 #### [Project Portfolio](https://ajisco.netlify.app)
 | | |
 |:-|:-|
-|![Project Portfolio 1](https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png) | ![Project Portfolio 2](https://ajisco.netlify.app/assets/img/portfolio/portfolio-2.png) |
+|![Project Portfolio 1](https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png) | ![Project Portfolio 2](https://ajisco.netlify.app/assets/img/portfolio/portfolio-2.png) ||
 
+  ---
 
-#### [Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/Breast%20Tumor%20Predictions%20using%20SVM.ipynb)
-| |
-|:-|
-|![Predictions of Breast Cancer tumors using Support vector Machines](https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg) |
+### 🖥️ Other Projects
+<!-- table -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+| Year | Title                                    | Technologies                           |
+|------|------------------------------------------|----------------------------------------|
+| 2022 | [Breast Tumor prediction EDA](https://bit.ly/BreastTumor) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Predicting Energy Efficiency of Buildings](https://bit.ly/ajiEnergyEfficiency) |  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [University Clustering](https://bit.ly/UniClustering) |  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Iris Flower Type Prediction](https://bit.ly/ajiFlower) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Advert Success prediction](https://bit.ly/ajiAdverts) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Loan payment predictor](https://bit.ly/ajiLoan) |![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [E Commerce Improvement](https://bit.ly/AjiCommerce) |![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Kyphosis Surgery prediction](https://bit.ly/ajiKyphosis) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [K Nearest Neighbor](https://bit.ly/AjiKNN) |![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [NLP of company](https://bit.ly/ajiNLProcess) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Food Balance Sheet EDA](https://bit.ly/FoodBalance) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Finance EDA](https://bit.ly/FinanceEDA) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 
+<br>
+  
+---
+  
+## ✍🏻 Latest Blog Posts
 
-#### [ Prediction on Success of Surgery to correct Kyphosis using Random Forest](https://github.com/Ajisco/Kyphosis-Prediction-Using-Random-Forest/blob/master/Kyphosis%20Prediction%20%20Using%20Random%20Forest.ipynb)
-| | |
-|:-|:-|
-| ![ Prediction on Success of Surgery to correct Kyphosis using Random Forest](https://github.com/Ajisco/Kyphosis-Prediction-Using-Random-Forest/blob/master/kypho.jpeg) ||
+<!-- BLOG-POST-LIST:START -->
+- [HOW I SUCCESSFULLY DEPLOYED MY ML APP](https://medium.com/@ajiscomorac/how-to-successfully-deploy-an-ml-app-df0580c428c4?source=user_profile---------0-------------------------------)
+- [FREE MATERIALS FOR DATA SCIENCE ON LINKEDIN](https://medium.com/@ajiscomorac/data-science-free-materials-on-linkedin-f4b65c8fa8f?source=user_profile---------1-------------------------------)
+- [Building "Guessing Game" With Python- A Simple Python Project.](https://medium.com/@ajiscomorac/programming-guessing-game-with-python-a-simple-python-project-d772962649df?source=user_profile---------2-------------------------------)
+- [How to Use Jupyter Notebook on Mobile Phone](https://medium.com/@ajiscomorac/how-to-use-jupyter-notebook-on-mobile-phone-41fa3ff0e0c0?source=user_profile---------3-------------------------------)
 
-<!--div align = "center" -->
-<h1>Contact</h1>
+<!-- BLOG-POST-LIST:END -->
 
-| | | |
-|:--|:--|:--|
-|location | Email | Social |
-<a href= '#'>Ibadan, Nigeria </a> | ajiscomorac@gmail.com | [<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ajisco.netlify.app/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ajibade-abdulquddus-ab5237159/) [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/ajibadeabdulqudus)  [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/Dayo_Ajisco)|
+---
 
+## 📊 Github Stats
 
+<details> 
+💻 GitHub Profile Stats
+  <br/>
+    <a href="https://github.com/Ajisco/github-readme-stats"><img alt="Abdulquddus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ajisco&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Ajisco/github-readme-stats"><img alt="Abdulquddus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajisco&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details>
+  ⚡ Recent GitHub Activity
+  <br/>
+   <a href="https://github.com/Ajisco/github-readme-activity-graph"><img alt="Abdulquddus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajisco&custom_title=yashitanamdeo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/>
+</details>  
+  
+---
+ 
+<!-- https://github.com/Ajisco -->
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="https://ajisco.netlify.app" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ajibade-abdulquddus-ab5237159/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://mobile.twitter.com/dayo_ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://instagram.com/Dayo_Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:ajiscomorac@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+  
+  
+---
  <h1> Made with 💜 by <a href = "https://github.com/Ajisco"> Ajibade Abdulquddus A.  <a/> <h1/> 
 </div>
 © 2022 GitHub, Inc.
@@ -71,4 +194,5 @@ Pricing
 API
 Training
 Blog
-About
+About 
+  
