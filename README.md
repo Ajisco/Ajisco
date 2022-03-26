@@ -3,10 +3,10 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Data+Scientist+;Python+Developer;Tech+Writer+%3C3;function+findQuestion(42)" alt="Data SCientist, Python Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Data+Scientist+;Python+Developer;Tech+Writer;Medical Student" alt="Data SCientist, Python Developer"></a>
 </div> 
  
-   <h1 align="center">Hi visitor, I'm Abdulquddus!</h1>
+   <h2 align="center">Hi visitor, I'm Abdulquddus!</h2>
    <p align="center">
      <img src="https://gpvc.arturio.dev/Ajisco">
      </p>
@@ -14,12 +14,12 @@
    ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png" width="400" align="right"/>
-- :school: I'm **Data Scientist** and *Python Developer*
-- :books: I also write tech stuffs on my blog
-- :earth_asia: I have relevant years of experience in Data Science
-- :monocle_face: I'm proficient in programming with Python, SQL and I use JavaScript
+- :school: I'm a passionate **Data Scientist** and *Python Developer*
+- :books: I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
+- :earth_asia: I have relevant years of experience in Data Science ,Machine Learning and Backend development with Python's Django and Flask.
+- :monocle_face: I'm proficient in programming with Python, SQL. I also use JavaScript
 - :sunglasses: I've completed many projects which you'll find in my profile as you move on
-- :ok_hand: Fun fact: I love :point_right: Eating :point_right: Coding :point_right: Chess 
+- :ok_hand: Fun facts: I love :point_right: Eating, Coding, Chess.
   
 ## 🛠️ My Favorite Tools
 
@@ -81,23 +81,23 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
   
-    ---
+---
 
 ## 🖥️ Deployed Projects
  
-> This is a section that contains the links to all my **deployed Webpages/Web application** 
+> This section contains the links to my **deployed AI/ ML/ Web application** 
 <br/>
   
 #### [Crime Predictor on Streamlit](https://bit.ly/CrimeWomen)
 | |
 |:-|
-|![Predictions of Crimes in India using Artificial Intillegince] <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://drive.google.com/file/d/1HnXmZY272scHG_wwtUPXpagCyXxIxLO3/view?usp=sharing"></a>|
+|![Predictions of Crimes in India using Artificial Intillegince] <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
 
   
 #### [Breast Cancer Predictor](https://tumpred.herokuapp.com)
 | | |
 |:-|:-|
-|![Breast Cancer Predictor] <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer App" src="https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg"></a>|(https://miro.medium.com/max/1400/1*vLYPDzcjwT0NO5lvjdUPPQ.jpeg) | ![Breast Cancer App 2](https://media-exp1.licdn.com/dms/image/C5622AQH9gNfyjan6sA/feedshare-shrink_2048_1536/0/1645773696390?e=1651104000&v=beta&t=IpdXPsKt6HggNTuuWTs5xZ1ubWpyeUTM0Fx3Y98GjHY) |
+|![Breast Cancer Predictor] <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer App" src="https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg"></a>|(https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png) | ![Breast Cancer App 2](https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png) |
 
 
 #### [Chat App with Django](https://my-chatme.herokuapp.com)
