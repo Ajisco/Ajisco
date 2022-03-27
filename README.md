@@ -161,7 +161,7 @@
 
   ⚡ Recent GitHub Activity
   <br/>
-   <a href="https://github.com/Ajisco/github-readme-activity-graph"><img alt="Abdulquddus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajisco&custom_title=yashitanamdeo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/Ajisco/github-readme-activity-graph"><img alt="Abdulquddus's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajisco&custom_title=Abdulquddus's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
  
   
