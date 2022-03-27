@@ -11,7 +11,7 @@
      <img src="https://gpvc.arturio.dev/Ajisco">
      </p>
    
-   ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png" width="400" align="right"/>
 - :school: I'm a passionate **Data Scientist** and *Python Developer*
@@ -91,26 +91,26 @@
 #### [Crime Predictor on Streamlit](https://bit.ly/CrimeWomen)
 | |
 |:-|
-|![Predictions of Crimes in India using Artificial Intillegince] <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
+| <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
 
   
 #### [Breast Cancer Predictor](https://tumpred.herokuapp.com)
-| | |
-|:-|:-|
-|![Breast Cancer Predictor] <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer App" src="https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM/blob/master/breast.jpg"></a>|    <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"> | ![Breast Cancer App 2](https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png) |
+| | 
+|:-|
+| <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
 
 
 #### [Chat App with Django](https://my-chatme.herokuapp.com)
 | |
 |:-|
-|![A Chatting Web Application built using Python Framework, Django] <a href="https://my-chatme.herokuapp.com"><img alt="Chat App" src="https://github.com/Ajisco/Ajisco/blob/main/images/chatme.png"></a> |
+| <a href="https://my-chatme.herokuapp.com"><img alt="Chat App" src="https://github.com/Ajisco/Ajisco/blob/main/images/chatme.png"></a> |
 
-#### [Project Portfolio](https://ajisco.netlify.app)
-| | |
-|:-|:-|
-|![Project Portfolio 1](https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png) | ![Project Portfolio 2](https://ajisco.netlify.app/assets/img/portfolio/portfolio-2.png) ||
+#### [Portfolio Website](https://ajisco.netlify.app)
+| | 
+|:-|
+| <a href="https://ajisco.netlify.app"><img alt= "Portfolio" src="https://ajisco.netlify.app/assets/img/portfolio/portfolio-1.png"></a> |
 
-  ---
+---
 
 ### 🖥️ Other Projects
 <!-- table -->
@@ -122,7 +122,7 @@
 | 2022 | [University Clustering](https://bit.ly/UniClustering) |  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 | 2022 | [Iris Flower Type Prediction](https://bit.ly/ajiFlower) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 | 2022 | [Advert Success prediction](https://bit.ly/ajiAdverts) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
-| 2022 | [Loan payment predictor](https://bit.ly/ajiLoan) || ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Loan payment predictor](https://bit.ly/ajiLoan) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 | 2022 | [E Commerce Improvement](https://bit.ly/AjiCommerce) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 | 2022 | [Kyphosis Surgery prediction](https://bit.ly/ajiKyphosis) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 | 2022 | [K Nearest Neighbor](https://bit.ly/AjiKNN) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
@@ -181,8 +181,8 @@
   
   
 ---
- <h3> Made with 💜 by <a href = "https://github.com/Ajisco"> Ajibade Abdulquddus A.  <a/> <h3/> 
-</div>
+ <center> <h4> Made with 💜 by <a href = "https://github.com/Ajisco"> Abdulquddus <a/> <h4/> </center>
+
 © 2022 GitHub, Inc.
 Terms
 Privacy
