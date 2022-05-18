@@ -87,20 +87,27 @@
  
 > This section contains the links to my **deployed AI/ ML/ Web application** 
 <br/>
+
+#### [The Titanic (Full-Stack AI App)](https://predtitanic.herokuapp.com)
+| |
+|:-|
+| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://predtitanic.herokuapp.com/static/images/titanic.png"></a>|
+
   
-#### [Crime Predictor on Streamlit](https://bit.ly/CrimeWomen)
+  
+#### [Crime Predictor (Full-Stack AI App)](https://bit.ly/CrimeWomen)
 | |
 |:-|
 | <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
 
   
-#### [Breast Cancer Predictor](https://tumpred.herokuapp.com)
+#### [Cancer Predictor (Full-Stack AI App)](https://tumpred.herokuapp.com)
 | | 
 |:-|
 | <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
 
 
-#### [Chat App with Django](https://my-chatme.herokuapp.com)
+#### [Chat App (Full-Stack Django)](https://my-chatme.herokuapp.com)
 | |
 |:-|
 | <a href="https://my-chatme.herokuapp.com"><img alt="Chat App" src="https://github.com/Ajisco/Ajisco/blob/main/images/chatme.png"></a> |
