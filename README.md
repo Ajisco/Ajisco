@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Data+Scientist+;Python+Developer;Tech+Writer;Medical+Student" alt="Data Scientist, Python Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Full-Stack+Data+Scientist+;Python+Developer;Tech+Writer;Health+Enthusiast" alt="Data Scientist, Python Developer"></a>
 </div> 
  
    <h2 align="center">Hi visitor, I'm Abdulquddus!</h2>
@@ -14,7 +14,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png" width="400" align="right"/>
-- :school: I'm a passionate **Data Scientist** and *Python Developer*
+- :school: I'm a passionate **Full-Stack Data Scientist** and *Python Developer*
 - :books: I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
 - :earth_asia: I have relevant years of experience in Data Science ,Machine Learning and Backend development with Python's Django and Flask.
 - :monocle_face: I'm proficient in programming with Python, SQL. I also use JavaScript
