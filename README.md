@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Full-Stack+Data+Scientist+;Python+Developer;Tech+Writer;Health+Enthusiast" alt="Data Scientist, Python Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Full-Stack+Data+Scientist+;Python+Developer;Tech+Writer;" alt="Data Scientist, Python Developer"></a>
 </div> 
  
    <h2 align="center">Hi visitor, I'm Abdulquddus!</h2>
