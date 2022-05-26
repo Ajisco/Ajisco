@@ -8,7 +8,7 @@
  
    <h2 align="center">Hi visitor, I'm Abdulquddus!</h2>
    <p align="center">
-     <img src="https://gpvc.arturio.dev/Ajisco">
+     <img src="https://avatars.githubusercontent.com/u/87889558?v=4">
      </p>
    
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
