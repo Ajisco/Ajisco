@@ -8,12 +8,12 @@
  
    <h2 align="center">Hi visitor, I'm Abdulquddus!</h2>
    <p align="center">
-     <img src="https://avatars.githubusercontent.com/u/87889558?v=4">
+     <img src="">
      </p>
    
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://ajisco.netlify.app/assets/img/testimonials/testimonials-5.png" width="400" align="right"/>
+- :credit_card: My full name is **Abdulquddus Ajibade** <img src="https://avatars.githubusercontent.com/u/87889558?v=4" width="400" align="right"/>
 - :school: I'm a passionate **Full-Stack Data Scientist** and *Python Developer*
 - :books: I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
 - :earth_asia: I have relevant years of experience in Data Science ,Machine Learning and Backend development with Python's Django and Flask.
