@@ -94,11 +94,10 @@
 |:-|
 | <a href="https://my-carbot.herokuapp.com"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220726-010010_Chrome.png"></a>|
 
-
-#### [The Titanic (Full-Stack AI App)](https://predtitanic.herokuapp.com)
-| |
+#### [Cancer Predictor (Full-Stack AI App)](https://tumpred.herokuapp.com)
+| | 
 |:-|
-| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220806-190620_Chrome.png"></a>|
+| <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
 
   
   
@@ -108,10 +107,11 @@
 | <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
 
   
-#### [Cancer Predictor (Full-Stack AI App)](https://tumpred.herokuapp.com)
-| | 
+#### [The Titanic (Full-Stack AI App)](https://predtitanic.herokuapp.com)
+| |
 |:-|
-| <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
+| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220806-190620_Chrome.png"></a>|
+
 
 
 #### [Chat App (Full-Stack Django)](https://my-chatme.herokuapp.com)
