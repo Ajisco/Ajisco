@@ -91,7 +91,7 @@
 #### [The Titanic (Full-Stack AI App)](https://predtitanic.herokuapp.com)
 | |
 |:-|
-| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://predtitanic.herokuapp.com/static/images/titanic.png"></a>|
+| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220806-190620_Chrome.png"></a>|
 
   
   
