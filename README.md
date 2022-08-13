@@ -11,9 +11,9 @@ About Me
   </h1>
    
 
-- :school: I'm Abdulquddus Ajibade, a passionate **Full-Stack Data Scientist** and *Python Developer*
-- :books: I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
-- :sunglasses: I'm open to roles and collaborations.
+- I'm Abdulquddus Ajibade, a passionate **Full-Stack Data Scientist** and *Python Developer*
+- I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
+- I'm open to roles and collaborations.
 
   
 ---
