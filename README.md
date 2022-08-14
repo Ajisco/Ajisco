@@ -6,17 +6,21 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Full-Stack+Data+Scientist+;AI+/+ML+Engineer;Python+Developer;Tech+Writer;" alt="Data Scientist, Python Developer"></a>
 </div> 
  
+ ---
+ 
  <h1 align="center">
 About Me 
   </h1>
-   
+<div align="center">   
 
 - I'm Abdulquddus Ajibade, a passionate **Full-Stack Data Scientist** and *Python Developer*
 - I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
 - I'm open to roles and collaborations.
 
-  
+</div>  
+
 ---
+
 <h2 align="center">
  🖥️ Deployed Projects
  </h2>
@@ -31,7 +35,7 @@ About Me
 #### [Cancer Predictor (ML App)](https://tumpred.herokuapp.com)
 | | 
 |:-|
-| <a href="https://tumpred.herokuapp.com"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
+| <a href="https://tumpred.herokuapp.com" align="center"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
 
   
   
@@ -59,9 +63,10 @@ About Me
 
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+<div align="center">
 
-| Title                                    | 
-|------------------------------------------|
+| Title                                                                     | 
+|---------------------------------------------------------------------------|
 | [Sentiment Analysis](https://bit.ly/ajiNLProcess) |
 | [Breast Tumor prediction EDA](https://bit.ly/BreastTumor) | 
 | [Predicting Energy Efficiency of Buildings](https://bit.ly/ajiEnergyEfficiency) |   
@@ -75,11 +80,12 @@ About Me
 | [Food Balance Sheet EDA](https://bit.ly/FoodBalance) |
 | [Finance EDA](https://bit.ly/FinanceEDA) | 
 
-<br>
-  
+</div>
+
 ---
-  
+    
 <h2 align="center"> ✍🏻 Latest Blog Posts</h2>
+<div align="center">
 
 <!-- BLOG-POST-LIST:START -->
 - [HOW I SUCCESSFULLY DEPLOYED MY ML APP](https://medium.com/@ajiscomorac/how-to-successfully-deploy-an-ml-app-df0580c428c4?source=user_profile---------0-------------------------------)
@@ -89,9 +95,10 @@ About Me
 
 <!-- BLOG-POST-LIST:END -->
 
+</div>
+
 ---
 
- 
 <!-- https://github.com/Ajisco -->
 
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
