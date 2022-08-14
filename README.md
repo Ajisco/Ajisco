@@ -15,7 +15,9 @@ About Me
 
 - I'm Abdulquddus Ajibade, a passionate **Full-Stack Data Scientist** and *Python Developer*
 - I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
+- I love contributing to open source projects.
 - I'm open to roles and collaborations.
+
 
 </div>  
 
