@@ -29,10 +29,6 @@ About Me
 
 
 
-#### [CarBot (Computer Vision and NLP Chatbot)](https://my-carbot.herokuapp.com)
-| |
-|:-|
-| <a href="https://my-carbot.herokuapp.com"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220726-010010_Chrome.png"></a>|
 
 #### [Cancer Predictor (ML App)](https://tumpred.herokuapp.com)
 | | 
