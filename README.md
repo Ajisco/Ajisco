@@ -13,8 +13,9 @@ About Me
   </h1>
 <div align="center">   
 
-- I'm Abdulquddus Ajibade, a passionate **Full-Stack Data Scientist** and *Python Developer*
+- I'm Abdulquddus Ajibade, a passionate **AI/ML Engineer**,**Full-Stack Data Scientist** and *Python Developer*
 - I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
+- I'm interested in NLP, Computer Vision, and Clinical AI
 - I love contributing to open source projects.
 - I'm open to roles and collaborations.
 
@@ -28,12 +29,29 @@ About Me
  </h2>
 
 
-
-
-#### [Cancer Predictor (ML App)](https://tumpred.herokuapp.com)
+#### [CarBot (Fault Diagnosing Bot)-NLP + Computer Vision](https://my-carbot.herokuapp.com)
 | | 
 |:-|
-| <a href="https://tumpred.herokuapp.com" align="center"><img alt="Breast Cancer" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
+| <a href="https://my-carbot.herokuapp.com" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/images/carbot%20pg2.jpg"></a>|
+
+
+#### [Sami.com (ML App for managing depression.)](https://listentosami.herokuapp.com)
+| | 
+|:-|
+| <a href="https://listentosami.herokuapp.com" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/images/Sami%20pg.jpg"></a>|
+
+
+
+#### [Loan re-payment Predictor (ML App)](https://loan-fbi.herokuapp.com)
+| | 
+|:-|
+| <a href="https://loan-fbi.herokuapp.com" align="center"><img alt="loan-fbi" src="https://github.com/Ajisco/Ajisco/blob/main/images/Loan%20pg.jpg"></a>|
+
+
+#### [Spam checker (ML App)](https://spam-fbi.herokuapp.com)
+| | 
+|:-|
+| <a href="https://spam-fbi.herokuapp.com" align="center"><img alt="spam-fbi" src="https://github.com/Ajisco/Ajisco/blob/main/images/spam%20pg.jpg"></a>|
 
   
   
