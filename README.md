@@ -16,7 +16,6 @@ About Me
 - I'm Abdulquddus Ajibade, a passionate **AI/ML Engineer**,**Full-Stack Data Scientist** and *Python Developer*
 - I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
 - I'm interested in NLP, Computer Vision, and Clinical AI
-- I love building AI (web) Applications.
 - I love contributing to open source projects.
 - I'm open to roles and collaborations.
 
@@ -40,6 +39,13 @@ About Me
 | | 
 |:-|
 | <a href="https://listentosami.herokuapp.com" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/images/Sami%20pg.jpg"></a>|
+
+
+
+#### [Breast Tumor Classifier (ML App)](https://tumpred.herokuapp.com)
+| | 
+|:-|
+| <a href="https://tumpred.herokuapp.com" align="center"><img alt="tumpred" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
 
 
 
