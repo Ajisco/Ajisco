@@ -13,7 +13,7 @@ About Me
   </h1>
 <div align="center">   
 
-- I'm Abdulquddus Ajibade, a passionate **AI/ML Engineer**,**Full-Stack Data Scientist** and *Python Developer*
+- I'm Abdulquddus Ajibade, a passionate **AI/ML Engineer**,**Data Scientist** and *Python Developer*
 - I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
 - I'm interested in NLP, Computer Vision, and Clinical AI
 - I love contributing to open source projects.
