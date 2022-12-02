@@ -35,10 +35,10 @@ About Me
 | <a href="https://my-carbot.herokuapp.com" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/images/carbot%20pg2.jpg"></a>|
 
 
-#### [Sami.com (ML App for managing depression.)](https://listentosami.herokuapp.com)
+#### [Sami.com (ML App for managing depression.)](https://sami.onrender.com)
 | | 
 |:-|
-| <a href="https://listentosami.herokuapp.com" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/images/Sami%20pg.jpg"></a>|
+| <a href="https://sami.onrender.com" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/images/Sami%20pg.jpg"></a>|
 
 
 
