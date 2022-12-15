@@ -49,6 +49,7 @@ About Me
 
 
 ---
+<div align="center">
 <h2>Other Nice Projects</h2>
 <table>
   <thead align="center">
@@ -85,7 +86,7 @@ About Me
     </tr>
   </tbody>
 </table>
-
+</div>
 
 ---
     
@@ -104,11 +105,16 @@ About Me
 </div>
 
 ---
+<div align="center">
+	
 ### Public Speaking/Talks 👨‍⚖️
  * [One Health Tech: Data Science in Health Care. - [Webinar]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_data-science-in-healthcare-and-career-opportunities-activity-6995673414233387008-f6_7?utm_source=share&utm_medium=member_desktop) `October 8` `2022` `Online`
   * [StayinBio: The Role of Data in Healthcare: Precision Medicine and Genomics. - [Twitter Space]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_linkedinfamily-healthcare-genomics-activity-7006233032634359808-pqaw?utm_source=share&utm_medium=member_desktop) `December 9` `2022` `Online`
+	
+</div>
 
 ---
+
 <!-- https://github.com/Ajisco -->
 
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
