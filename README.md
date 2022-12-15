@@ -25,103 +25,90 @@ About Me
 ---
 
 <h2 align="center">
- 🖥️ Deployed Projects
+ 🖥️ Some Nice Deployed Projects
  </h2>
 
 
-#### [CarBot (Fault Diagnosing Bot)-NLP + Computer Vision](https://my-carbot.herokuapp.com)
+#### [CarBot (car Fault Diagnosing Bot) NLP + Computer Vision](https://github.com/Ajisco/CarBot)
 | | 
 |:-|
-| <a href="https://my-carbot.herokuapp.com" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/images/carbot%20pg2.jpg"></a>|
+| <a href="https://github.com/Ajisco/CarBot" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/CarBot.gif"></a>|
 
 
-#### [Sami.com (ML App for managing depression.)](https://sami.onrender.com)
+#### [Sami.com (Music Therapy for Depression)](https://github.com/Ajisco/Sami-Depression)
 | | 
 |:-|
-| <a href="https://sami.onrender.com" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/images/Sami%20pg.jpg"></a>|
+| <a href="https://github.com/Ajisco/Sami-Depression" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/Sami.gif"></a>|
 
 
 
-#### [Breast Tumor Classifier (ML App)](https://tumpred.herokuapp.com)
+#### [Advert Click Predictor](https://github.com/Ajisco/Ad-Click)
 | | 
 |:-|
-| <a href="https://tumpred.herokuapp.com" align="center"><img alt="tumpred" src="https://github.com/Ajisco/Ajisco/blob/main/images/Tumpred.png"></a>|
+| <a href="https://github.com/Ajisco/Ad-Click" align="center"><img alt="tumpred" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/AdClick.gif"></a>|
 
-
-
-#### [Loan re-payment Predictor (ML App)](https://loan-fbi.herokuapp.com)
-| | 
-|:-|
-| <a href="https://loan-fbi.herokuapp.com" align="center"><img alt="loan-fbi" src="https://github.com/Ajisco/Ajisco/blob/main/images/Loan%20pg.jpg"></a>|
-
-
-#### [Spam checker (ML App)](https://spam-fbi.herokuapp.com)
-| | 
-|:-|
-| <a href="https://spam-fbi.herokuapp.com" align="center"><img alt="spam-fbi" src="https://github.com/Ajisco/Ajisco/blob/main/images/spam%20pg.jpg"></a>|
-
-  
-  
-#### [Crime Predictor (ML App)](https://bit.ly/CrimeWomen)
-| |
-|:-|
-| <a href="https://bit.ly/CrimeWomen"><img alt="Crime Predictor" src="https://github.com/Ajisco/Ajisco/blob/main/images/Streamlit%20Crime.png"></a>|
-
-  
-#### [The Titanic (ML App)](https://predtitanic.herokuapp.com)
-| |
-|:-|
-| <a href="https://predtitanic.herokuapp.com"><img alt="The Titanic" src="https://github.com/Ajisco/Ajisco/blob/main/images/Screenshot_20220806-190620_Chrome.png"></a>|
-
-
-
-#### [Chat App (Full-Stack Django)](https://my-chatme.herokuapp.com)
-| |
-|:-|
-| <a href="https://my-chatme.herokuapp.com"><img alt="Chat App" src="https://github.com/Ajisco/Ajisco/blob/main/images/chatme.png"></a> |
 
 ---
+<h2>Other Nice Projects</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🚀 Deployed</b></td>
+      <td><b>🗒 Undeployed</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://github.com/Ajisco/Breast-Tumor-Predictions-using-SVM"><b>Breast Tumor Classifier App!</b></a></td>
+      <td><a href="https://bit.ly/ajiNLProcess"><b>Sentiment Analysis!</b></a></td>
+    </tr>
+    <tr>
+    <tr>
+      <td><a href="https://github.com/Ajisco/Students-performance"><b>Students Performance!</b></a></td>
+      <td><a href="https://bit.ly/ajiEnergyEfficiency"><b>Predicting Energy Efficiency of Buildings </b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ajisco/Loan-Predictor"><b>Loan Predictor!</b></a></td>
+      <td><a href="https://bit.ly/UniClustering"><b>University Clustering !</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Ajisco/Chatme-App"><b>Django Chat Application!</b></a></td>
+      <td><a href="https://bit.ly/ajiKyphosis"><b>Kyphosis Surgery Survival!</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Ajisco/Depression-prediction"><b>Depression Predictor App!</b></a></td>
+      <td><a href="https://bit.ly/AjiCommerce"><b>E commerce Improvement!</b></a></td>
+    </tr>
+      <tr>
+      <td><a href="https://spamfbi.onrender.com/"><b>Spam Detector App!</b></a></td>
+      <td><a href="https://bit.ly/ajiFlower"><b>Iris Flower Prediction!</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 align="center"> 🖥️ Other Projects </h2>
-
-<!-- table -->
-<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-<div align="center">
-
-| Title                                                                     | 
-|---------------------------------------------------------------------------|
-| [Sentiment Analysis](https://bit.ly/ajiNLProcess) |
-| [Breast Tumor prediction EDA](https://bit.ly/BreastTumor) | 
-| [Predicting Energy Efficiency of Buildings](https://bit.ly/ajiEnergyEfficiency) |   
-| [University Clustering](https://bit.ly/UniClustering) |  
-| [Iris Flower Type Prediction](https://bit.ly/ajiFlower) |  
-| [Advert Success prediction](https://bit.ly/ajiAdverts) | 
-| [Loan payment predictor](https://bit.ly/ajiLoan) |
-| [E Commerce Improvement](https://bit.ly/AjiCommerce) |
-| [Kyphosis Surgery prediction](https://bit.ly/ajiKyphosis) |
-| [K Nearest Neighbor](https://bit.ly/AjiKNN) |
-| [Food Balance Sheet EDA](https://bit.ly/FoodBalance) |
-| [Finance EDA](https://bit.ly/FinanceEDA) | 
-
-</div>
 
 ---
     
-<h2 align="center"> ✍🏻 Latest Blog Posts</h2>
+<h2 align="center"> ✍🏻 Blog Posts/ Articles</h2>
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW I SUCCESSFULLY DEPLOYED MY ML APP](https://medium.com/@ajiscomorac/how-to-successfully-deploy-an-ml-app-df0580c428c4?source=user_profile---------0-------------------------------)
-- [FREE MATERIALS FOR DATA SCIENCE ON LINKEDIN](https://medium.com/@ajiscomorac/data-science-free-materials-on-linkedin-f4b65c8fa8f?source=user_profile---------1-------------------------------)
+- [How I Successfully Deployed my ML App](https://medium.com/@ajiscomorac/how-to-successfully-deploy-an-ml-app-df0580c428c4?source=user_profile---------0-------------------------------)
+- [Free Materials For Data Science on Linkedin.](https://medium.com/@ajiscomorac/data-science-free-materials-on-linkedin-f4b65c8fa8f?source=user_profile---------1-------------------------------)
 - [Building "Guessing Game" With Python- A Simple Python Project.](https://medium.com/@ajiscomorac/programming-guessing-game-with-python-a-simple-python-project-d772962649df?source=user_profile---------2-------------------------------)
 - [How to Use Jupyter Notebook on Mobile Phone](https://medium.com/@ajiscomorac/how-to-use-jupyter-notebook-on-mobile-phone-41fa3ff0e0c0?source=user_profile---------3-------------------------------)
+- [How to Address Overfitting in Machine Learning.](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_how-to-address-overfitting-in-machine-learning-activity-6993832507162955776-Coec?utm_source=share&utm_medium=member_desktop)
 
 <!-- BLOG-POST-LIST:END -->
 
 </div>
 
 ---
+### Public Speaking/Talks 👨‍⚖️
+ * [One Health Tech: Data Science in Health Care. - [Webinar]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_data-science-in-healthcare-and-career-opportunities-activity-6995673414233387008-f6_7?utm_source=share&utm_medium=member_desktop) `October 8` `2022` `Online`
+  * [StayinBio: The Role of Data in Healthcare: Precision Medicine and Genomics. - [Twitter Space]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_linkedinfamily-healthcare-genomics-activity-7006233032634359808-pqaw?utm_source=share&utm_medium=member_desktop) `December 9` `2022` `Online`
 
+---
 <!-- https://github.com/Ajisco -->
 
 <h2 align="center">🙋‍♀️ Let's Connect</h2>
