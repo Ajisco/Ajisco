@@ -24,6 +24,13 @@ About Me
 
 ---
 
+<h1 align="center" style = "background-color:blue;">
+<a href = "https://ajisco.netlify"> View My Portfolio </a>
+</h1>
+
+---
+
+
 <h2 align="center">
  🖥️ Some Nice Deployed Projects
  </h2>
