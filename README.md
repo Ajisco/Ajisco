@@ -124,7 +124,7 @@ About Me
 
 <!-- https://github.com/Ajisco -->
 
-<h2 align="center">🙋‍♀️ Let's Connect</h2>
+<h2 align="center">🙋‍♂️ Let's Connect</h2>
 <p align="center">
 	<a href="https://github.com/Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ajibade-abdulquddus-ab5237159/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
