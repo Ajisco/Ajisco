@@ -25,7 +25,7 @@ About Me
 ---
 
 <h1 align="center" style = "background-color:blue;">
-<a href = "https://ajisco.netlify"> View My Portfolio </a>
+<a href = "https://ajisco.netlify.app"> View My Portfolio </a>
 </h1>
 
 ---
