@@ -35,17 +35,22 @@ About Me
  🖥️ Some Nice Deployed Projects
  </h2>
 
-
-#### [CarBot (car Fault Diagnosing Bot) NLP + Computer Vision](https://github.com/Ajisco/CarBot)
+ #### [AI-Driven Financial Advisory App for SMEs](https://github.com/Ajisco/ai-finance)
 | | 
 |:-|
-| <a href="https://github.com/Ajisco/CarBot" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/CarBot.gif"></a>|
+| <a href="[https://github.com/Ajisco/Sami-Depression](https://github.com/Ajisco/ai-finance)" align="center"><img alt="AI for Finance" src="https://github.com/Ajisco/ai-finance/blob/master/fin_images/form_pred_chat_2.png"></a>|
 
 
 #### [Sami.com (Music Therapy for Depression)](https://github.com/Ajisco/Sami-Depression)
 | | 
 |:-|
 | <a href="https://github.com/Ajisco/Sami-Depression" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/Sami.gif"></a>|
+
+
+#### [CarBot (car Fault Diagnosing Bot) NLP + Computer Vision](https://github.com/Ajisco/CarBot)
+| | 
+|:-|
+| <a href="https://github.com/Ajisco/CarBot" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/CarBot.gif"></a>|
 
 
 
