@@ -47,7 +47,7 @@ About Me
 | <a href="https://github.com/Ajisco/Sami-Depression" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/Sami.gif"></a>|
 
 
-#### [CarBot (car Fault Diagnosing Bot) NLP + Computer Vision](https://github.com/Ajisco/CarBot)
+#### [AI-Powered Vehicle Diagnostic Assistant](https://github.com/Ajisco/CarBot)
 | | 
 |:-|
 | <a href="https://github.com/Ajisco/CarBot" align="center"><img alt="CarBot" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/CarBot.gif"></a>|
