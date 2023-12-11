@@ -41,7 +41,7 @@ About Me
 | <a href="[https://github.com/Ajisco/Sami-Depression](https://github.com/Ajisco/ai-finance)" align="center"><img alt="AI for Finance" src="https://github.com/Ajisco/ai-finance/blob/master/fin_images/form_pred_chat_2.png"></a>|
 
 
-#### [Sami.com (Music Therapy for Depression)](https://github.com/Ajisco/Sami-Depression)
+#### [Music Therapy for Depression](https://github.com/Ajisco/Sami-Depression)
 | | 
 |:-|
 | <a href="https://github.com/Ajisco/Sami-Depression" align="center"><img alt="Sami.com" src="https://github.com/Ajisco/Ajisco/blob/main/Videos/Sami.gif"></a>|
