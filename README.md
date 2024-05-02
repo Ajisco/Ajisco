@@ -126,8 +126,8 @@ About Me
 <h2 align="center">🙋‍♂️ Let's Connect</h2>
 <p align="center">
 	<a href="https://github.com/Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<!-- <a href="https://www.linkedin.com/in/abdulquddusajibade" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>  -->
-	<a href="https://mobile.twitter.com/dayo_ajisco" target="_blank"><img src="https://img.icons8.com/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/ajibadeadedayoabdulquddus" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> 
+	<a href="https://mobile.twitter.com/dayo_ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
   <a href="https://instagram.com/Dayo_Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:ajiscomorac@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
