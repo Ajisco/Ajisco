@@ -91,40 +91,14 @@ I enjoy chess ♟️ in my free time.
 </table>
 </div>
 
----
-    
-<h2 align="center"> ✍🏻 Blog Posts/ Articles</h2>
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Successfully Deployed my ML App](https://medium.com/@ajiscomorac/how-to-successfully-deploy-an-ml-app-df0580c428c4?source=user_profile---------0-------------------------------)
-- [Free Materials For Data Science on Linkedin.](https://medium.com/@ajiscomorac/data-science-free-materials-on-linkedin-f4b65c8fa8f?source=user_profile---------1-------------------------------)
-- [Building "Guessing Game" With Python- A Simple Python Project.](https://medium.com/@ajiscomorac/programming-guessing-game-with-python-a-simple-python-project-d772962649df?source=user_profile---------2-------------------------------)
-- [How to Use Jupyter Notebook on Mobile Phone](https://medium.com/@ajiscomorac/how-to-use-jupyter-notebook-on-mobile-phone-41fa3ff0e0c0?source=user_profile---------3-------------------------------)
-- [How to Address Overfitting in Machine Learning.](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_how-to-address-overfitting-in-machine-learning-activity-6993832507162955776-Coec?utm_source=share&utm_medium=member_desktop)
-
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-<div align="center">
-	
-### Public Speaking 👨‍⚖️
- * [One Health Tech: Data Science in Health Care. - [Webinar]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_data-science-in-healthcare-and-career-opportunities-activity-6995673414233387008-f6_7?utm_source=share&utm_medium=member_desktop) `October 8` `2022` `Online`
-  * [StayinBio: The Role of Data in Healthcare: Precision Medicine and Genomics. - [Twitter Space]](https://www.linkedin.com/posts/abdulquddus-ajibade-ab5237159_linkedinfamily-healthcare-genomics-activity-7006233032634359808-pqaw?utm_source=share&utm_medium=member_desktop) `December 9` `2022` `Online`
-	
-</div>
-
----
 
 <!-- https://github.com/Ajisco -->
 
 <h2 align="center">🙋‍♂️ Let's Connect</h2>
 <p align="center">
-	<a href="https://github.com/Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+		<a href="mailto:ajiscomorac@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ajibadeadedayoabdulquddus" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a> 
 	<a href="https://mobile.twitter.com/dayo_ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
   <a href="https://instagram.com/Dayo_Ajisco" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:ajiscomorac@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+
 </p>
