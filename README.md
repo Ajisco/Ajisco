@@ -3,29 +3,33 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Ajibade+Abdulquddus;Data+Scientist+;AI+/+ML+Engineer;Python+Developer;Tech+Writer;" alt="Data Scientist, Python Developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Abdulquddus+Ajibade,+MD+;Senior+AI/ML+Engineer+;Medical+Doctor;Clinical+AI+Researcher" alt="Sr AI Engineer, Medical Doctor"></a>
 </div> 
  
  ---
  
- <h1 align="center">
-About Me 
-  </h1>
-<div align="center">   
+<h1 align="center">
+About Me
+</h1>
 
-- I'm Abdulquddus Ajibade, a passionate **AI/ML Engineer**, **Data Scientist** and *Python Developer*
-- I also write tech stuffs on my  <a href="https://medium.com/@ajiscomorac"> Blog </a>.
-- I'm interested in NLP, Computer Vision, and Clinical AI
-- I love contributing to open source projects.
-- I'm open to roles and collaborations.
+<div align="justify">
 
+Medical doctor and Senior AI/ML Engineer building clinical AI systems for real-world healthcare use.
 
-</div>  
+Over the past 5 years, I have built clinical decision tools, APIs, chat systems, and worked with electronic medical records. I have also conducted research in medical imaging and speech recognition. I built an annotation platform from scratch and led annotation projects for speech, language, and medical data. These systems have supported over 500,000 patients.
+
+I have worked across preventive care, chronic disease management, and maternal and child health using AI. I am a published researcher in clinical AI and medical imaging. I have also co-founded initiatives focused on training healthcare professionals and building preventive healthcare solutions.
+
+I currently focus on clinical AI engineering and applied research in healthcare AI. I also advise organizations on healthcare AI systems.
+
+I enjoy chess ♟️ in my free time.
+
+</div>
 
 ---
 
-<h1 align="center" style = "background-color:blue;">
-<a href = "https://ajisco.netlify.app"> View My Portfolio </a>
+<h1 align="center">
+<a href="https://ajisco.netlify.app">View My Portfolio</a>
 </h1>
 
 ---
